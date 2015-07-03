@@ -1,0 +1,43 @@
+Enviado
+
+{
+   "stockKeepingUnitService":{
+      "Description":"+ 2 anos de Garantia Estendida",
+      "IsActive":true,
+      "Name":"+ 2 anos de Garantia Estendida",
+      "ServiceId":"1",
+      "ServicePriceId":"1",
+      "StockKeepingUnitId":"2001822"
+   }
+}
+
+
+Recebido
+
+{
+   "Description":"+ 2 anos de Garantia Estendida",
+   "Id":1,
+   "IsActive":true,
+   "Name":"+ 2 anos de Garantia Estendida",
+   "ServiceId":1,
+   "ServicePrice":{
+      "Id":1,
+      "ListPrice":"10.0000",
+      "Name":"Por at\u00e9 dois anos",
+      "Price":"20.0000",
+      "Service":{
+         "Id":1,
+         "IsActive":true,
+         "IsFile":false,
+         "IsGiftCard":false,
+         "IsRequired":false,
+         "IsVisibleOnCart":true,
+         "IsVisibleOnProduct":true,
+         "IsVisibleOnService":true,
+         "Name":"Garantia Estendida"
+      },
+      "ServiceId":1
+   },
+   "ServicePriceId":1,
+   "StockKeepingUnitId":2001822
+}

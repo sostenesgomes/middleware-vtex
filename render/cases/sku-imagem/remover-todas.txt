@@ -1,0 +1,7 @@
+Enviado
+
+{"stockKeepingUnitId" : "2003777"}
+
+Recebido
+
+{"status":"true"}

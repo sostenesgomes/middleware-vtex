@@ -1,0 +1,7 @@
+Enviado
+
+{"idStockKeepingUnit":"2001429"}
+
+Recebido
+
+{"result":"true"}

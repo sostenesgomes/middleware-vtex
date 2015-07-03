@@ -1,0 +1,12 @@
+Enviado
+
+[
+  {
+    "itemId": 2001822,
+    "salesChannel": 1,
+    "price": 649.00,
+    "listPrice": 649.00
+  }
+]
+
+[{"id":3603,"itemId":2001822,"salesChannel":1,"sellerId":null,"price":649.0000,"listPrice":649.0000,"source":null,"medium":null,"campaign":null,"internalCampaign":null,"validFrom":"1900-01-01T00:00:00","validTo":"4000-01-01T00:00:00","lastUpdate":"2015-02-04T12:56:37.59"}]

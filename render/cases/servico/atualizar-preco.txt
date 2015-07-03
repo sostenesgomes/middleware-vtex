@@ -1,0 +1,87 @@
+* Este método pode ser usado tanto para adicionar quanto para atualizar preço de serviço.
+A diferenção estão em:
+
+Adicionar => Não é enviado o Id de ServicePrice
+Atualizar => É enviado o Id de ServicePrice
+
+Adicionar
+
+Enviado
+
+{
+   "servicePrice":{
+      "ListPrice":"30",
+      "Name":"Por até três anos",
+      "Price":"20",
+      "ServiceId":"1"
+   }
+}
+
+
+Recebido
+
+{
+   "Id":2,
+   "ListPrice":"30",
+   "Name":"Por at\u00e9 tr\u00eas anos",
+   "Price":"20",
+   "Service":{
+      "Id":1,
+      "IsActive":true,
+      "IsFile":false,
+      "IsGiftCard":false,
+      "IsRequired":false,
+      "IsVisibleOnCart":true,
+      "IsVisibleOnProduct":true,
+      "IsVisibleOnService":true,
+      "Name":"Garantia Estendida"
+   },
+   "ServiceId":1
+}
+
+------------------------------------
+
+Atualizar
+
+Enviado
+
+{
+   "servicePrice":{
+      "Id":"1",
+      "ListPrice":"30",
+      "Name":"Por até três anos",
+      "Price":"20",
+      "ServiceId":"1"
+   }
+}
+
+
+Recebido
+
+{
+   "Id":2,
+   "ListPrice":"30",
+   "Name":"Por at\u00e9 tr\u00eas anos",
+   "Price":"20",
+   "Service":{
+      "Id":1,
+      "IsActive":true,
+      "IsFile":false,
+      "IsGiftCard":false,
+      "IsRequired":false,
+      "IsVisibleOnCart":true,
+      "IsVisibleOnProduct":true,
+      "IsVisibleOnService":true,
+      "Name":"Garantia Estendida"
+   },
+   "ServiceId":1
+}
+
+
+
+
+
+
+
+
+

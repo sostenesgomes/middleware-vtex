@@ -1,0 +1,10 @@
+Enviado
+{
+  "name":"Lava Lou\u00e7as Brastemp Ative 12 Servi\u00e7os Inox - BLF12"
+}
+
+Recebido
+
+{
+    "slug":"lava-louas-brastemp-ative-12-servios-inox-blf12"
+}

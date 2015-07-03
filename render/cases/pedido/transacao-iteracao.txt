@@ -1,0 +1,208 @@
+Enviado
+
+{"transaction_id":"AAEE26ED54304300A0FA3ABADA00017F"}
+
+Recebido
+
+[
+   {
+      "Id":"567DAD25FDBA4A01A9F84AE50AB56484",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionWorkFlowChangeStatus",
+      "Status":"Transaction Approved",
+      "Date":"2015-02-10T14:47:05.6445087",
+      "Message":"Status change: from Authorized to Approved.",
+      "Ticks":635591764256445087
+   },
+   {
+      "Id":"744F5B710034484ABE180FDE6666065A",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionWorkFlowChangeStatus",
+      "Status":"Transaction Authorized",
+      "Date":"2015-02-10T14:47:05.5977044",
+      "Message":"Status change: from Authorizing to Authorized.",
+      "Ticks":635591764255977044
+   },
+   {
+      "Id":"258569F4613B477F868BAD8A6C66012C",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentAuthorizedWorker",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:47:05.5509081",
+      "Message":"Started authorization retry for payment A6A7E350658F4482ACE85C40B7A7D7D8.",
+      "Ticks":635591764255509081
+   },
+   {
+      "Id":"2210ADC39B3749428813395A26C3D3F4",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentAutoSettlementWorker",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:47:02.8676626",
+      "Message":"auto settlement worker processed payment A6A7E350658F4482ACE85C40B7A7D7D8 sucessfully",
+      "Ticks":635591764228676626
+   },
+   {
+      "Id":"62AEFB97C5F246BFB68132705DDCE110",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"BankInvoiceBB",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:47:02.8053048",
+      "Message":"Message: Success.",
+      "Ticks":635591764228053048
+   },
+   {
+      "Id":"AAD3A96BE7854138967AEB814CA88411",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentAutoSettlementWorker",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:47:02.7429029",
+      "Message":"Auto settlement worker trying to settle payment A6A7E350658F4482ACE85C40B7A7D7D8.",
+      "Ticks":635591764227429029
+   },
+   {
+      "Id":"6E483FEF3A92431BB765071155724829",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentGateway",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:46:57.9219327",
+      "Message":"Payment notification finished\r\nAuthor: vtexappkey-appvtex.",
+      "Ticks":635591764179219327
+   },
+   {
+      "Id":"FF146D8E6C724CE792344679282AFDE4",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentWorkFlowChangeStatus",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:46:57.6879216",
+      "Message":"Status change: from Authorizing to Authorized.",
+      "Ticks":635591764176879216
+   },
+   {
+      "Id":"C885CF6D3BAA423AADACAA604E9C4971",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"BankInvoiceBB",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:46:57.5475177",
+      "Message":"Message: .",
+      "Ticks":635591764175475177
+   },
+   {
+      "Id":"A6EE0EE38AD34A5A9CBA2A772D9CFA7E",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentGateway",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-10T14:46:57.4227115",
+      "Message":"Payment notification started\r\nAuthor: vtexappkey-appvtex.",
+      "Ticks":635591764174227115
+   },
+   {
+      "Id":"710F161B1A8C4FF6AF18E9D3C06C9C5E",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionFinishWorker",
+      "Status":"Transaction Authorizing",
+      "Date":"2015-02-09T16:24:35.3588597",
+      "Message":"Could not confirm the transaction with Id = AAEE26ED54304300A0FA3ABADA00017F. Authorization tries: 2.",
+      "Ticks":635590958753588597
+   },
+   {
+      "Id":"E6B1B08EFE6042CFA0C9D75F350A7968",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionFinishWorker",
+      "Status":"Transaction Authorizing",
+      "Date":"2015-02-09T16:24:35.1560074",
+      "Message":"Transaction finish retry has started (Id = AAEE26ED54304300A0FA3ABADA00017F). Retries: 2.",
+      "Ticks":635590958751560074
+   },
+   {
+      "Id":"2F6337D64D594E55B15EDE3F3EB945BF",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionFinishWorker",
+      "Status":"Transaction Authorizing",
+      "Date":"2015-02-09T16:19:31.3438742",
+      "Message":"Could not confirm the transaction with Id = AAEE26ED54304300A0FA3ABADA00017F. Authorization tries: 1.",
+      "Ticks":635590955713438742
+   },
+   {
+      "Id":"17D344B0EDA54A38960A267C744B05B1",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionFinishWorker",
+      "Status":"Transaction Authorizing",
+      "Date":"2015-02-09T16:19:30.5326735",
+      "Message":"Transaction finish retry has started (Id = AAEE26ED54304300A0FA3ABADA00017F). Retries: 1.",
+      "Ticks":635590955705326735
+   },
+   {
+      "Id":"232C7C7B1A154B31BD9435EBD9C64184",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"BankInvoiceBB",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-09T16:14:26.8958159",
+      "Message":"Message: PaymentPending.",
+      "Ticks":635590952668958159
+   },
+   {
+      "Id":"1B065364D2B44B6DB57631BE36A82559",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"BankIssuedInvoiceConnector",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-09T16:14:26.7554161",
+      "Message":"Bank issued invoice generation has finished.",
+      "Ticks":635590952667554161
+   },
+   {
+      "Id":"55F9788F723040ECAADB2AA64B5ABAFF",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"BankIssuedInvoiceConnector",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-09T16:14:26.5994121",
+      "Message":"Bank issued invoice generation has started.",
+      "Ticks":635590952665994121
+   },
+   {
+      "Id":"320B80E36D6B4708844BC8A3218531E7",
+      "PaymentId":"A6A7E350658F4482ACE85C40B7A7D7D8",
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentWorkFlowChangeStatus",
+      "Status":"Payment Authorizing",
+      "Date":"2015-02-09T16:14:26.3966019",
+      "Message":"Status change: from Received to Authorizing.",
+      "Ticks":635590952663966019
+   },
+   {
+      "Id":"B11CF549B497431DB66DE3E571727244",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"TransactionWorkFlowChangeStatus",
+      "Status":"Transaction Authorizing",
+      "Date":"2015-02-09T16:14:26.3498042",
+      "Message":"Status change: from Started to Authorizing.",
+      "Ticks":635590952663498042
+   },
+   {
+      "Id":"4FA4266E2081419195B7807F09558202",
+      "PaymentId":null,
+      "TransactionId":"AAEE26ED54304300A0FA3ABADA00017F",
+      "Source":"PaymentGateway",
+      "Status":"Transaction Started",
+      "Date":"2015-02-09T16:14:26.193801",
+      "Message":"Transaction authorization started\r\nAuthor: vtexappkey-appvtex.",
+      "Ticks":635590952661938010
+   }
+]

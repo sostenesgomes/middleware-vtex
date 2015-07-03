@@ -1,0 +1,7 @@
+Enviado
+
+{"alias":"9d697f45925b4e329db599f17d92bf7a@ct.vtex.com.br"}
+
+Recebido
+
+{"email":"guilherme@{your-store}.com.br","alias":"9d697f45925b4e329db599f17d92bf7a@ct.vtex.com.br"}

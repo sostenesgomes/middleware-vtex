@@ -1,0 +1,15 @@
+Enviado
+
+{
+    "orderId":"462123247597-01",
+    "paymentId":"C34602B4C3DE4EC2B8EA9B8B8334223C"
+}
+
+Recebido
+
+
+{
+    "status":"true"
+}
+
+

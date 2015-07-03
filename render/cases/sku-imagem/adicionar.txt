@@ -1,0 +1,7 @@
+Enviado
+
+{
+  "urlImage":"http:\/\/www.{your-store}.com.br\/fotos\/34345_0_120x120.jpg",
+  "imageName":"produto-ultimate.jpg","stockKeepingUnitId":
+  "2000076"
+}

@@ -1,0 +1,62 @@
+Enviado
+
+{
+  "IsActive":"1",
+  "Name":"Sku 1",
+  "RefId":"produto-ultimate-sku-1",
+  "CostPrice":"12.10",
+  "ListPrice":"12.10",
+  "Price":"12.10",
+  "Height":"12.10",
+  "Length":"12.10",
+  "Width":"12.10",
+  "WeightKg":"12.10",
+  "RealHeight":"12.10",
+  "RealLength":"12.10",
+  "RealWidth":"12.10",
+  "RealWeightKg":"12.10",
+  "ModalId":"1",
+  "CubicWeight":"30.00",
+  "IsKit":"0",
+  "ProductId":"2000037",
+  "DateUpdated":"2014-09-16",
+  "RewardValue":"1.1",
+  "StockKeepingUnitEans":[{"Ean":"0123456789123"}]
+  "ManufacturerCode":"fabricante1"
+}
+
+Recebido
+
+{
+    "CommercialConditionId":null,
+    "CostPrice":"12.10",
+    "CubicWeight":"30.00",
+    "DateUpdated":"2014-09-16T15:46:31.4265996",
+    "EstimatedDateArrival":null,
+    "Height":"12.10",
+    "Id":2000076,
+    "InternalNote":null,
+    "IsActive":false,
+    "IsAvaiable":false,
+    "IsKit":false,
+    "Length":"12.10",
+    "ListPrice":"12.10",
+    "ManufacturerCode":"fabricante1",
+    "MeasurementUnit":"un",
+    "ModalId":1,
+    "ModalType":null,
+    "Name":"Sku 1",
+    "Price":"12.10",
+    "ProductId":2000037,
+    "ProductName":"Produto Ultimate Update",
+    "RealHeight":"12.10",
+    "RealLength":"12.10",
+    "RealWeightKg":"12.10",
+    "RealWidth":"12.10",
+    "RefId":"produto-ultimate-sku-1",
+    "RewardValue":"1.1",
+    "StockKeepingUnitEans":null,
+    "UnitMultiplier":"1",
+    "WeightKg":"12.10",
+    "Width":"12.10"
+}

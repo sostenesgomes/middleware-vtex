@@ -1,0 +1,19 @@
+Enviado
+
+[
+    {
+        "id":"2000076"
+    }
+]
+
+Recebido
+
+[
+    {
+        "itemId":"2000076",
+        "quantity":0,
+        "eventTimestamp":"00000000-0000-0000-0000-000000000000",
+        "salesChannel":"1",
+        "unlimitedQuantity":false
+    }
+]

@@ -1,0 +1,17 @@
+Enviado
+
+{
+    "orderId":"462122998958-01"
+}
+
+Recebido
+
+{
+    "orderId":"462122998958-01",
+    "receipt":"97ab040e-e511-4f58-943d-ae650b531073",
+    "date":"2014-09-16T19:51:41.6988515Z"
+}
+
+obs: o receipt pode vir null, neste caso foi solicitado o cancelamento, mas ainda não foi confirmado
+
+

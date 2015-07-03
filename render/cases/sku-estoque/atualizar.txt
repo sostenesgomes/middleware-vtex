@@ -1,0 +1,17 @@
+Enviado
+
+[
+    {
+        "wareHouseId":"1_1",
+        "itemId":"2000076",
+        "quantity":"100",
+        "dateUtcOnBalanceSystem":null
+    }
+]
+
+
+Recebido
+
+{
+    "status":"true"
+}

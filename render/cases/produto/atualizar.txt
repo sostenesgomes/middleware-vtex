@@ -1,0 +1,34 @@
+Enviado
+
+{
+  "Name":"Produto Ultimate Update",
+  "LinkId":"produto-ultimate-update",
+  "RefId":"produto-ultimate"
+}
+
+Recebido
+
+{
+    "AdWordsRemarketingCode":null,
+    "BrandId":2000000,
+    "CategoryId":1000000,
+    "DepartmentId":1000000,
+    "Description":"Produto Ultimate",
+    "DescriptionShort":
+    "Produto Ultimate",
+    "Id":2000037,
+    "IsActive":false,
+    "IsVisible":true,
+    "KeyWords":"produto, ultimate",
+    "LinkId":"produto-ultimate-update",
+    "ListStoreId":null,
+    "LomadeeCampaignCode":null,
+    "MetaTagDescription":"Produto Ultimate",
+    "Name":"Produto Ultimate Update",
+    "RefId":"produto-ultimate",
+    "ReleaseDate":"2014-09-16T00:00:00",
+    "ShowWithoutStock":true,
+    "SupplierId":1,
+    "TaxCode":"123456789",
+    "Title":"Produto Ultimate"
+}

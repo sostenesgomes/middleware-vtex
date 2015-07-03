@@ -1,0 +1,43 @@
+Enviado
+
+{
+  "Name":"Sku 1 Update",
+  "Price":"12.45",
+  "RefId":"produto-ultimate-sku-1"
+}
+
+Recebido
+
+{
+    "CommercialConditionId":1,
+    "CostPrice":"12.1000",
+    "CubicWeight":"30.0000",
+    "DateUpdated":"2014-09-16T15:49:41.0770153",
+    "EstimatedDateArrival":null,
+    "Height":"12.1000",
+    "Id":2000076,
+    "InternalNote":null,
+    "IsActive":false,
+    "IsAvaiable":false,
+    "IsKit":false,
+    "Length":"12.1000",
+    "ListPrice":"12.1000",
+    "ManufacturerCode":"fabricante1",
+    "MeasurementUnit":"un",
+    "ModalId":1,
+    "ModalType":null,
+    "Name":"Sku 1 Update",
+    "Price":"12.45",
+    "ProductId":2000037,
+    "ProductName":"Produto Ultimate Update",
+    "RealHeight":"12.1000",
+    "RealLength":"12.1000",
+    "RealWeightKg":"12.1000",
+    "RealWidth":"12.1000",
+    "RefId":"produto-ultimate-sku-1",
+    "RewardValue":"1.1000",
+    "StockKeepingUnitEans":null,
+    "UnitMultiplier":"1.0000",
+    "WeightKg":"12.1000",
+    "Width":"12.1000"
+}

@@ -1,0 +1,54 @@
+Enviado
+
+{
+    "status":"ready-for-handling"
+}
+
+/**
+ * UPDATE 30/04/2015
+ * Adicionado o parâmetro page para servir consulta paginada
+ */
+
+{
+    "status":"payment-pending",
+    "page":"2"
+}
+
+###########################################################################################################
+Recebido
+
+{
+    "list":[
+        {
+            "orderId":"462062373340-01",
+            "creationDate":"2014-09-16T13:39:33",
+            "clientName":"André Ribas",
+            "items":
+                [
+                    {
+                        "seller":"1",
+                        "quantity":1,
+                        "description":"Ração Mini Indoor Adult Royal Canin 1kg",
+                        "ean":null,
+                        "refId":"7896181212430"
+                    }
+                ],
+            "totalValue":7950.0,
+            "paymentNames":"Boleto Bancário",
+            "status":"ready-for-handling",
+            "statusDescription":"Pronto para o manuseio",
+            "marketPlaceOrderId":null,
+            "sequence":"500040",
+            "salesChannel":"1",
+            "affiliateId":"",
+            "origin":"Marketplace",
+            "workflowInErrorState":false,
+            "workflowInRetry":false,
+            "lastMessageUnread":"your store Seu pagamento foi aprovado! pedido realizado em: 16/09/2014 Olá, André. Seu pagamento foi efetuado com sucesso. Você receberá out",
+            "ShippingEstimatedDate":"2014-10-10T13:57:35",
+            "orderIsComplete":true,
+            "listId":null,
+            "listType":null
+        }
+    ]
+}

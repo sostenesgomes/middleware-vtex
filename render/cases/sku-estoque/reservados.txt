@@ -1,0 +1,42 @@
+Enviado
+
+{
+    "wareHouseId" : "515",
+    "itemId" : 2000431
+}
+
+
+Recebido
+
+{
+    "items": [
+        {
+            "LockId": "00-531132365556-01",
+            "ItemId": "2000431",
+            "Quantity": 1,
+            "SalesChannel": "1",
+            "ReservationDateUtc": "2015-05-10T16:42:28.365+00:00",
+            "MaximumConfirmationDateUtc": "2015-05-18T16:42:28.365+00:00",
+            "ConfirmedDateUtc": "0001-01-01T00:00:00+00:00",
+            "Status": "Authorized",
+            "DateUtcAcknowledgedOnBalanceSystem": "0001-01-01T00:00:00"
+        },
+        {
+            "LockId": "00-531132365556-01",
+            "ItemId": "2000431",
+            "Quantity": 1,
+            "SalesChannel": "1",
+            "ReservationDateUtc": "2015-05-10T16:42:28.365+00:00",
+            "MaximumConfirmationDateUtc": "2015-05-18T16:42:28.365+00:00",
+            "ConfirmedDateUtc": "0001-01-01T00:00:00+00:00",
+            "Status": "Authorized",
+            "DateUtcAcknowledgedOnBalanceSystem": "0001-01-01T00:00:00"
+        },
+    "paging": {
+        "page": 1,
+        "perPage": 15,
+        "total": 2,
+        "pages": 1
+    }
+    ]
+}

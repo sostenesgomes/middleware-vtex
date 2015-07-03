@@ -1,0 +1,29 @@
+Enviado
+
+{
+    "orderId":"461902715732-01",
+    "invoiceNumber":"NF0002",
+    "invoiceValue":"79.50",
+    "courier":"SEDEX",
+    "invoiceUrl":"www.nfteste.com",
+    "embeddedInvoice":"",
+    "issuanceDate":"2014-09-16",
+    "trackingNumber":"SN0000BR",
+    "items": [
+        {
+            "id": "2000030",
+            "price": 34.50,
+            "quantity": 1
+        }
+ 	]
+}
+
+Recebido
+
+{
+    "date":"2014-09-16T19:47:21.2856813+00:00",
+    "orderId":"00-461902715732-01",
+    "receipt":"df86e356ee38473b97818ca1b938854f"
+}
+
+

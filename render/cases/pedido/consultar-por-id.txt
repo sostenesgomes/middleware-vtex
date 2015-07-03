@@ -1,0 +1,213 @@
+Enviado
+
+{
+    "orderId":"461902715732-01"
+}
+
+Recebido
+
+{
+    "orderId":"461902715732-01",
+    "sequence":"500037",
+    "marketplaceOrderId":"",
+    "marketplaceServicesEndpoint":"http://portal.vtexcommerce.com.br/api/oms?an={your-store}",
+    "sellerOrderId":"00-461902715732-01",
+    "origin":"Marketplace",
+    "affiliateId":"",
+    "salesChannel":"1",
+    "merchantName":null,
+    "status":"ready-for-handling",
+    "statusDescription":"Pronto para o manuseio",
+    "value":7950,
+    "creationDate":"2014-09-15T21:45:15.8599246Z",
+    "lastChange":"2014-09-16T18:27:56.7178111Z",
+    "orderGroup":"461902715732",
+    "totals":[
+        {
+            "id":"Items",
+            "name":"Items Total",
+            "value":3450
+        },
+        {
+            "id":"Discounts",
+            "name":"Discounts Total",
+            "value":0
+        },
+        {
+            "id":"Shipping",
+            "name":"Shipping Total",
+            "value":4500
+        },
+        {
+            "id":"Tax",
+            "name":"Tax Total",
+            "value":0
+        }
+    ],
+    "items":[
+        {
+            "id":"2000030",
+            "productId":"2000004",
+            "ean":null,
+            "lockId":"00-461902715732-01",
+            "itemAttachment":{
+                "content":{},
+                "name":null
+            },
+            "itemAttachments":null,
+            "quantity":1,
+            "seller":"1",
+            "name":"Ração Mini Indoor Adult Royal Canin 1kg",
+            "refId":"7896181212430",
+            "price":3450,
+            "listPrice":3450,
+            "priceTags":[],
+            "imageUrl":"/arquivos/ids/155242-55-55/rc.jpg",
+            "detailUrl":"/racao-mini-indoor-adult-royal-canin-2000004/p",
+            "components":[],
+            "bundleItems":[],
+            "params":[],
+            "offerings":[],
+            "sellerSku":"2000030",
+            "priceValidUntil":null,
+            "commission":0,
+            "tax":0,
+            "preSaleDate":null,
+            "additionalInfo":{
+                "brandName":"Marca Exemplo",
+                "brandId":"1",
+                "categoriesIds":"/1000032/1000001/1000002/",
+                "productClusterId":"8,135,136",
+                "commercialConditionId":"1"
+            },
+            "measurementUnit":"un",
+            "unitMultiplier":1.0000,
+            "sellingPrice":3450,
+            "isGift":false,
+            "shippingPrice":null
+        }
+    ],
+    "marketplaceItems":[],
+    "clientProfileData":{
+        "id":"clientProfileData",
+        "email":"da04f355c1e04aa881f30e99e1e523f7@ct.vtex.com.br",
+        "firstName":"Teste",
+        "lastName":"Dev",
+        "documentType":"cpf",
+        "document":"02090431130",
+        "phone":"+556285690761",
+        "corporateName":null,
+        "tradeName":null,
+        "corporateDocument":null,
+        "stateInscription":null,
+        "corporatePhone":null,
+        "isCorporate":false,
+        "userProfileId":"7eece230-2877-4c34-ac68-829f3e74d1e1"
+    },
+    "giftRegistryData":null,
+    "marketingData":null,
+    "ratesAndBenefitsData":{
+        "id":"ratesAndBenefitsData",
+        "rateAndBenefitsIdentifiers":[]
+    },
+    "shippingData":{
+        "id":"shippingData",
+        "address":{
+            "addressType":"residential",
+            "receiverName":"Teste Dev",
+            "addressId":"-1410817520066",
+            "postalCode":"74890-080",
+            "city":"Goiânia",
+            "state":"GO",
+            "country":"BRA",
+            "street":"Rua 2 Unidade 301",
+            "number":"1",
+            "neighborhood":"Parque Atheneu",
+            "complement":"apt 103",
+            "reference":null
+        },
+        "logisticsInfo":[
+            {
+                "itemIndex":0,
+                "selectedSla":"Normal",
+                "lockTTL":"9d",
+                "price":4500,
+                "deliveryWindow":null,
+                "deliveryCompany":"Transportadora",
+                "shippingEstimate":"18bd",
+                "shippingEstimateDate":"2014-10-10T17:57:33.7915536Z",
+                "slas":[
+                    {
+                        "id":"Normal",
+                        "name":"Normal",
+                        "shippingEstimate":"18bd",
+                        "deliveryWindow":null,
+                        "price":4500
+                    }
+                ],
+                "shipsTo":["BRA"],
+                "sellingPrice":4500,
+                "deliveryIds":[
+                    {
+                        "courierId":"1",
+                        "courierName":"Transportadora",
+                        "dockId":"1",
+                        "quantity":1,
+                        "warehouseId":"1c75b0f"
+                    }
+                ]
+            }
+        ]
+    },
+    "paymentData":
+        {
+            "transactions":[
+                {
+                    "isActive":true,
+                    "transactionId":"5BE87344723E496BB1FC93FA2DF3FB25",
+                    "payments":[
+                        {
+                            "id":"3A9FF52110504EDCA753901E405FCB91",
+                            "paymentSystem":"6",
+                            "paymentSystemName":"Boleto Bancário",
+                            "value":7950,
+                            "installments":1,
+                            "referenceValue":7950,
+                            "cardHolder":null,
+                            "cardNumber":null,
+                            "firstDigits":null,
+                            "lastDigits":null,
+                            "cvv2":null,
+                            "expireMonth":null,
+                            "expireYear":null,
+                            "url":"https://{your-store}.vtexpayments.com.br:443/BankIssuedInvoice/Transaction/5BE87344723E496BB1FC93FA2DF3FB25/Payment/3A9FF52110504EDCA753901E405FCB91/Installment/{Installment}",
+                            "giftCardId":null,
+                            "giftCardName":null,
+                            "giftCardCaption":null,
+                            "redemptionCode":null,
+                            "group":"bankInvoice",
+                            "tid":null,
+                            "dueDate":"2014-09-20",
+                            "connectorResponses":{}
+                        }
+                    ]
+                }
+            ]
+        },
+        "packageAttachment":{
+            "packages":[]
+        ,
+        "sellers":[
+            {
+                "id":"1",
+                "name":"{your-store}",
+                "logo":"http://portal.vtexcommerce.com.br/arquivos/logo.jpg"
+            }
+        ],"callCenterOperatorData":null,
+        "followUpEmail":"799fe2d5e81f49c0aac5e424e382c073@ct.vtex.com.br",
+        "lastMessage":"your store Seu pagamento foi aprovado! pedido realizado em: 15/09/2014 Olá, Teste. Seu pagamento foi efetuado com sucesso. Você receberá out",
+        "hostname":"{your-store}",
+        "changesAttachment":null,
+        "openTextField":null
+    }
+}
